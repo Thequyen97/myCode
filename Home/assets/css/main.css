@@ -1,0 +1,34 @@
+.header{
+    height: 80px;
+}
+.container{
+    padding: 0;
+}
+.nav-link{
+    font-size: 16px;
+    font-weight: bold;
+}
+.nav-item{
+    display: flex;
+    padding: 0px 20px;
+}
+.navbar-nav a{
+    font-family: proxima-nova-condensed, sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    font-weight: bold;
+    color: #575757;
+}
+
+/*FOOTER*/
+.footer{
+    background-color: #FAFAFA;
+}
+.my-5{
+    height: 397px;
+}
+.m-1 a img{
+    list-style-type: none;
+    margin: 0px -20px;
+    display: inline-block;
+}
